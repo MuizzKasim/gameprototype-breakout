@@ -6,7 +6,7 @@ You can try the game yourself using the following link:<br/>
 http://surl.li/folww<br/>
 (Filesize: ~15MB, Compressed)
 <br/><br/>
-This game was solo a UTB project. It was one of my first few games I ever developed. <br/>
+This game was solo a UTB project. It was one of my first few games I ever developed. The repository only contains the source code. Other asset files are not included.<br/>
 <br/>
 Game title: <br/>
 Breakout<br/>
