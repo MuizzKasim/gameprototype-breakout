@@ -13,4 +13,3 @@ Breakout<br/>
 <br/>
 Game genre:<br/>
 Action<br/>
-<br/>
