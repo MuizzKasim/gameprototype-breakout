@@ -1,4 +1,4 @@
-# Gameprototype: Breakout
+# Game Prototype: Breakout
 A game prototype made using Unity Engine in style of classic arcade game called Breakout<br/>
 Note: The game will be forced to run at 1024x768 resolution at windowed mode. <br/>
 <br/>
@@ -14,5 +14,3 @@ Breakout<br/>
 Game genre:<br/>
 Action<br/>
 <br/>
-
-
